@@ -22,6 +22,7 @@ El objetivo del curso es que los estudiantes aprendan a **desarrollar APIs backe
 
 | Clase | Contenido | Grabación |
 |------|------|------|
+|Repaso|Repaso de Javascript|Link pendiente|
 | Clase 1 | Bienvenida y herramientas | https://youtu.be/9m9X-NHdgVw |
 | Clase 2 | Introducción a Node.js | Link pendiente |
 | Clase 3 | | |
@@ -92,6 +93,7 @@ Se explica brevemente el rol de cada herramienta dentro del desarrollo backend.
 El repositorio se organiza por clases:
 curso-backend-nodejs/
 
+- repaso-JS/
 - clase-01/
 - clase-02/
 - clase-03/
