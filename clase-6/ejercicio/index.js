@@ -39,4 +39,4 @@ async function obtenerPJSAsync() {
 }
 
 const data = await obtenerPJSAsync()
-console.log(data)
+console.table(data, ["id", "name", "status", "species"])
